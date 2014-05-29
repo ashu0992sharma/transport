@@ -1,0 +1,2 @@
+$(document).ready(function () {$("#btn_SEARCH").bind("click", function (event) {$.ajax({data:$("#btn_SEARCH").closest("form").serialize(), dataType:"html", label:false, success:function (data, textStatus) {$("#model_name").html(data);}, type:"post", url:"\/transport\/Vehiclemodel\/add", value:"Go"});
+return false;});});

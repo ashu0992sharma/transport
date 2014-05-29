@@ -1,0 +1,2 @@
+$(document).ready(function () {$("#select_vehicle").bind("change", function (event) {$.ajax({async:true, data:$("#select_vehicle").serialize(), dataType:"html", success:function (data, textStatus) {$("#show_vehicle").html(data);}, type:"POST", url:"\/transport\/Vehicles\/edit_vehicles"});
+return false;});});

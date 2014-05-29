@@ -1,0 +1,2 @@
+$(document).ready(function () {$("#student").bind("change", function (event) {$.ajax({async:true, data:$("#student").serialize(), dataType:"html", success:function (data, textStatus) {$("#route").html(data);}, type:"POST", url:"\/transport\/Studentroutestop\/show_routes"});
+return false;});});

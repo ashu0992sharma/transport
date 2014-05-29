@@ -1,0 +1,2 @@
+$(document).ready(function () {$("#select_route").bind("change", function (event) {$.ajax({async:true, data:$("#select_route").serialize(), dataType:"html", success:function (data, textStatus) {$("#show_stops").html(data);}, type:"POST", url:"\/transport\/Routes\/edit_routes"});
+return false;});});

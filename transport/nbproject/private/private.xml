@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/transport/app/View/Routes/add.ctp</file>
+            <file>file:/C:/wamp/www/transport/app/View/Vehicles/add.ctp</file>
+            <file>file:/C:/wamp/www/transport/app/View/Routes/select_route_vehicle.ctp</file>
+            <file>file:/C:/wamp/www/transport/app/View/Routes/select_route_stop.ctp</file>
+            <file>file:/C:/wamp/www/transport/app/Controller/StudentsController.php</file>
+            <file>file:/C:/wamp/www/transport/app/View/Stops/delete.ctp</file>
+            <file>file:/C:/wamp/www/transport/app/View/Stops/edit_stops.ctp</file>
+            <file>file:/C:/wamp/www/transport/app/View/Stops/add.ctp</file>
+            <file>file:/C:/wamp/www/transport/app/View/Students/min_distance.ctp</file>
+            <file>file:/C:/wamp/www/transport/app/View/Stops/view.ctp</file>
+            <file>file:/C:/wamp/www/transport/app/View/Stops/show_routes.ctp</file>
+            <file>file:/C:/wamp/www/transport/app/View/Students/portal.ctp</file>
+            <file>file:/C:/wamp/www/transport/app/Model/Stop.php</file>
+            <file>file:/C:/wamp/www/transport/app/View/Layouts/default.ctp</file>
+            <file>file:/C:/wamp/www/transport/app/View/Vehicles/vehicle_report.ctp</file>
+            <file>file:/C:/wamp/www/transport/app/Model/Vehicle.php</file>
+            <file>file:/C:/wamp/www/transport/app/Controller/StopsController.php</file>
+            <file>file:/C:/wamp/www/transport/app/View/Schools/add.ctp</file>
+            <file>file:/C:/wamp/www/transport/app/Controller/VehiclesController.php</file>
+            <file>file:/C:/wamp/www/transport/app/Controller/RoutesController.php</file>
+            <file>file:/C:/wamp/www/transport/app/View/Vehicles/vehicle_employee_report.ctp</file>
+            <file>file:/C:/wamp/www/transport/app/View/Vehicles/select_vehicle_employee.ctp</file>
+            <file>file:/C:/wamp/www/transport/app/View/Routes/student_route_report.ctp</file>
+        </group>
+    </open-files>
+</project-private>
